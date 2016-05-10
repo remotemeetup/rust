@@ -1,5 +1,22 @@
-# Rust Meetups
+# Rust Remote Meetups
 
-In this repo you can find resources of Rust Meetups
+## Kickoff a new Rust remote meetup
+If you want to present at our Rust Remote Meetup, please head to our issue list to [open a new issue](https://github.com/remotemeetup/rust/issues/new) and fill in all the information for the event.
 
-* [Rust for Rubysts](rust_for_rubysts) by [Filipe Costa](https://github.com/filipebarcos)
+Visit our [Remote Meetup Rust](https://www.bigmarker.com/communities/remote-meetup) channel to see a listing of past events for inspiration.
+
+## Note about presenters
+Every presenter for an event must be subscribed to the Remote Meetup Rust channel here: http://remotemeetup.slack.com. This is a pre-requisite for us to be able to connect an event to the presenter(s).
+
+Keep in mind that attendees want to know about the presenter(s)'s' background, so include as much relevant info as possible. Please make sure that each presenter profile on our channel has most of these:
+- Personal info: Full name, title, bio.
+- Social media links: Twitter, linkedIn, Facebook.
+
+
+## Ways to get in touch
+
+- Join us on Slack (these channels are linked):
+
+    RemoteMeetup Slack - #organizers channel (invite: https://remotemeetup.herokuapp.com/)
+
+- Find us on Twitter at https://twitter.com/RemoteMeetup
